@@ -12,7 +12,7 @@ The included code is an open-source sofware, originally developed by the [KIOS R
 
 ```
 @INPROCEEDINGS{LymperopoulosACC2020, 
-author={Y. Lymperopoulos and P. M. Papadopoulos and Petros Ioannou and M. M. Polycarpou}, 
+author={G. Lymperopoulos and P. M. Papadopoulos and Petros Ioannou and M. M. Polycarpou}, 
 booktitle={American Control Conference (ACC)}, 
 title={Distributed Adaptive Control of Air Handling Units for Interconnected
 Building Zones}, 
